@@ -3,4 +3,4 @@
 - [com.coimbrastudios.interfacereference](https://github.com/coimbrastudios/interfacereference)
 
 ## Projects
-- [ConnectFour](ConnectFour/index.html)
+- [Connect Four](ConnectFour/index.html)
