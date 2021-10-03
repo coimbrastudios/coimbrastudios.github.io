@@ -1,6 +1,7 @@
 ## Coimbra Framework
+- [com.coimbrastudios](https://github.com/coimbrastudios/framework)
 - [com.coimbrastudios.buildmanagement](https://github.com/coimbrastudios/buildmanagement)
-- [com.coimbrastudios.interfacereference](https://github.com/coimbrastudios/interfacereference)
 
 ## Projects
-- [Connect Four](ConnectFour/index.html)
+- [Connect Four (custom architecture)](https://github.com/brunocoimbrar/ConnectFour)
+- [Tic Tac Toe (MVC architecture)](https://github.com/brunocoimbrar/tic-tac-toe)
